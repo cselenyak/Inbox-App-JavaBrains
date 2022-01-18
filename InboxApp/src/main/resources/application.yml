@@ -1,6 +1,10 @@
+server:
+  port: 8888
+
 spring:
   application:
     name: inbox-app
+
   security:
     oauth2:
       client:
